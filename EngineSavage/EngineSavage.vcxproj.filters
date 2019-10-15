@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Loong">
+      <UniqueIdentifier>{55d53387-2cef-4a53-bb4c-bf1dfe39c807}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SavageCoordinate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SavageLog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoongDictionary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoongContent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoongContentImplement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoongDebug.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoongExecuter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SavageMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SavageUnit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SavageWorld.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SavageTemp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SavageHeaders.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Savage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SavageMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SavageCoordinate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SavageLog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Loong.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="LoongContent.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="LoongDictionary.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="LoongVector.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="LoongContentImplement.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="LoongDebug.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="LoongExecuter.h">
+      <Filter>头文件\Loong</Filter>
+    </ClInclude>
+    <ClInclude Include="SavageUnit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SavageWorld.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SavageTemp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
